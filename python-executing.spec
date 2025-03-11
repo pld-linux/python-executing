@@ -9,7 +9,7 @@ Summary(pl.UTF-8):	Pobieranie aktualnie wykonywanego węzła AST ramki oraz inny
 Name:		python-executing
 # keep 1.x here for python2 support
 Version:	1.2.0
-Release:	2
+Release:	3
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/executing/
